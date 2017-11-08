@@ -1,0 +1,283 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{24, 93}, {128, 33}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "hitme_button_1",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Hit me!",
+          "uuid" : "87E100EA-486D-4FC2-A1A8-231179E3A171",
+          "class" : "Button",
+          "name" : "hitme_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 72}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "card_1_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "AB4C7F64-64B2-4C8B-A3E7-F71CF8276AC3",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 122}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "card_2_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "9141177D-A3EA-48EA-B5E8-8C390BC4D10A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 235}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "card_4_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "DB282F0D-FA08-497A-B656-F8FF6A1AD2D9",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 176}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "card_3_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "0ABB650D-108C-4D9A-A191-5FD02CAB2D9B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 27}, {150, 35}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "your_handlabel",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "29AF2BD3-95DC-42C8-8CB3-2E00E0003A72",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Your hand:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{395, 23}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "dealer_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B6945D7F-AA03-41C2-A43D-88D0DC366BD9",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Dealers hand:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{395, 63}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "dealerlabel1",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C32AFC0F-402C-4D00-9E85-EE9B1D402131",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{395, 113}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "dealerlabel2",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "CA13894B-CDD7-4524-AD95-6D230214A68F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{395, 165}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "dealerlabel3",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "D2AD3EC8-EC46-4DC5-8739-5EEE7BBF2002",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{395, 220}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "dealerlabel4",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C4066AD9-8605-4084-8EC0-5832F84372BF",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{15, 272}, {184, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "winner_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "7FA6C73F-4930-4301-85D6-F0C0556E06DE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{24, 47}, {128, 38}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "generate_first_2_cards",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Generate",
+          "uuid" : "D842BDF3-20F4-417D-8992-F43564539DF2",
+          "class" : "Button",
+          "name" : "generate_first_2_cards_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 293}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "card_5_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "76881687-8FFD-402F-8AF6-A09CB3DE9279",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{24, 134}, {128, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "check_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "08A9073E-0E97-412E-A457-9289621EAEC0",
+          "class" : "Button",
+          "name" : "check_button",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
